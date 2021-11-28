@@ -1,0 +1,3 @@
+C:/lian_ling_tech/my_libs/usb/usb_demo/build/CMakeFiles/listdemo.dir
+C:/lian_ling_tech/my_libs/usb/usb_demo/build/CMakeFiles/edit_cache.dir
+C:/lian_ling_tech/my_libs/usb/usb_demo/build/CMakeFiles/rebuild_cache.dir
